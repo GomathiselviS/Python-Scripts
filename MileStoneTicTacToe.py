@@ -95,6 +95,7 @@ if player==1:
 else:
     p1="Player 2"
     p2="Player 1"
+    
 print("{} goes first......".format(p1))
 p1_marker=player_input()
 if p1_marker == 'X':
